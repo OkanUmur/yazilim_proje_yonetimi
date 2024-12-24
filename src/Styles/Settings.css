@@ -1,0 +1,88 @@
+.SettingsContainer {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.SettingsTitle {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.navigate-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.SettingsButton {
+  margin-bottom: 10px;
+}
+
+.LanguageSelector {
+  margin-bottom: 20px;
+}
+
+.LanguageLabel {
+  font-size: 1rem;
+  margin-bottom: 5px;
+  color: cadetblue;
+}
+
+.LanguageSelect {
+  width: 100%;
+  padding: 8px;
+  font-size: 1rem;
+}
+
+.LanguageOption {
+  padding: 8px;
+  font-size: 1rem;
+}
+
+/* Laptop görünümü için (1024px ve üstü) */
+@media (min-width: 1024px) {
+  .SettingsContainer {
+      max-width: 450px;
+      padding: 25px;
+  }
+
+  .SettingsTitle {
+      font-size: 1.7rem;
+      margin-bottom: 25px;
+  }
+
+  .navigate-button {
+      top: 15px;
+      left: 15px;
+      padding: 12px 24px;
+  }
+}
+
+/* Tablet görünümü için (768px ile 1023px arası) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .SettingsContainer {
+      max-width: 350px;
+      padding: 22px;
+  }
+
+  .SettingsTitle {
+      font-size: 1.4rem;
+      margin-bottom: 18px;
+  }
+
+  .navigate-button {
+      top: 12px;
+      left: 12px;
+      padding: 10px 20px;
+  }
+}

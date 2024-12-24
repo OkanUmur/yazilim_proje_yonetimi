@@ -1,0 +1,137 @@
+{
+    "welcome": "ようこそ",
+    "enter_credentials": "キャッシャーコードとパスワードを入力してください...",
+    "username_placeholder": "キャッシャーコード",
+    "password_placeholder": "パスワード",
+    "login_button": "ログイン",
+    "invalid_credentials": "無効なキャッシャーコードまたはパスワードです。",
+  
+  
+    "settings_title": "設定",
+    "dark_theme": "ダークテーマ",
+    "light_theme": "ライトテーマ",
+    "keyboard_language_selection": "キーボード言語の選択",
+    "language_selection":"言語設定",
+    "language_option_en": "英語",
+    "language_option_tr": "トルコ語",
+    "language_option_jp": "日本語",
+    "language_option_fr": "フランス語",
+    "language_option_ar": "アラビア語",
+  
+  
+    "main_screen_title": "Web キャッシャー",
+    "shopping_cart_icon": "ショッピングカート",
+    "store_number": "店舗番号:",
+    "register_number": "レジ番号:",
+    "ip_address": "IP アドレス:",
+    "version": "バージョン:",
+    "online": "オンライン",
+    "offline": "オフライン",
+    "store_online": "ストア オンライン",
+    "store_offline": "ストア オフライン",
+  
+  
+    "menu_title": "メニュー",
+    "sales": "販売",
+    "price_view": "価格表示",
+    "return_order": "返品",
+    "direct_product_entry": "直接商品入力",
+    "reports": "レポート",
+    "payments": "支払い",
+    "settings": "設定",
+    "offline_alert": "ストアがオフラインです！販売を行うにはオンラインにする必要があります。",
+  
+    "read_barcode":"バーコードを読み取る",
+  
+    "cart_header": "カート",
+    "cart_empty_message": "カートが空です。",
+    "product": "商品",
+    "price": "価格",
+    "quantity": "数量",
+    "subtotal": "小計",
+    "total": "合計",
+    "kg": "kg",
+    "piece": "個",
+  
+    "functions_title": "操作",
+    "increase_quantity": "数量を増やす",
+    "decrease_quantity": "数量を減らす",
+    "delete_row": "行を削除",
+    "clear_cart": "カートをクリア",
+    "proceed_to_payment": "支払いへ進む",
+    "cart_empty_alert": "カートが空です。支払い画面に進むことができません。",
+  
+    "product_add_to_cart": "カートに追加",
+    "product_category": "カテゴリー",
+    "product_price": "価格",
+    "product_stock": "在庫",
+    "product_kg": "kg",
+    "product_unit": "単位",
+  
+    "products_title": "商品",
+    "category_button_text": "カテゴリー",
+    "barcode_products_button_text": "バーコード付きの商品",
+    "barcodeless_products_button_text": "バーコードなしの商品",
+    "add_to_cart": "カートに追加",
+  
+    "return_order_page_title": "返品のページ",
+    "scan_barcode_instruction": "製品のバーコードをスキャンしてください！",
+    "product_name": "名前:",
+    "category": "カテゴリー:",
+    "barcode": "バーコード:",
+    "return_button_text": "返品",
+  
+  
+    "receipt_header": "デジタル領収書",
+    "date": "日付:",
+    "time": "時間:",
+    "cashier": "キャッシャー:",
+    "products": "商品",
+    "total_amount": "合計金額",
+    "payment_info": "支払い情報",
+    "paid_amount": "支払額:",
+    "change_amount": "お釣り:",
+    "print_button": "領収書を印刷",
+    "pieces":"お釣り",
+    "new_sales":"新しい販売",
+    "returned_amount": "返金額:",
+  
+  
+    "processes_title": "プロセス",
+    "e_invoice": "電子請求書",
+    "gift_voucher": "ギフト券",
+    "e_wallet": "電子ウォレット",
+    "hadi_wallet": "Hadiウォレット",
+    "return_to_orders": "注文に戻る",
+  
+    "payment_success_message": "支払いが完了したら、電子請求書が送信されます",
+  
+    "cancel_document": "文書をキャンセル",
+    "campaign": "キャンペーン",
+    "payment_method": "支払い方法",
+    "cash": "現金",
+    "credit_card": "クレジットカード",
+    "payment_amount": "支払額",
+    "remaining_amount": "残高",
+    "total_to_pay": "支払い総額",
+  
+  
+    "mail_modal": {
+      "title": "E-請求書を送信",
+      "description": "メールアドレスを入力して、E-請求書を送信できます：",
+      "email_label": "メールアドレス",
+      "cancel_button": "キャンセル",
+      "send_button": "送信"
+    },
+    "notifications": {
+      "email_sent": "E-請求書が正常に送信されました。",
+      "email_error": "E-請求書の送信中にエラーが発生しました。"
+    },
+  
+    "campaign_modal": {
+      "title": "適用されたキャンペーン",
+      "close_button": "閉じる"
+    }
+    ,"Back":"バック"
+  }
+  

@@ -1,0 +1,139 @@
+{
+  "welcome": "Hoş geldiniz",
+  "enter_credentials": "Lütfen kasiyer kodunu ve şifresini girin...",
+  "username_placeholder": "Kasiyer kodu",
+  "password_placeholder": "Şifre",
+  "login_button": "Giriş",
+  "invalid_credentials": "Geçersiz kasiyer kodu veya şifre.",
+
+
+  "settings_title": "Ayarlar",
+  "dark_theme": "Koyu Tema",
+  "light_theme": "Açık Tema",
+  "keyboard_language_selection": "Klavye Dil Seçimi",
+  "language_selection":"Dilli seç",
+  "language_option_en": "English",
+  "language_option_tr": "Türkçe",
+  "language_option_jp": "日本語",
+  "language_option_fr": "Français",
+  "language_option_ar": "العربية",
+
+ "main_screen_title": "Web Kasa",
+  "shopping_cart_icon": "Alışveriş Sepeti",
+  "store_number": "Mağaza No:",
+  "register_number": "Kasa No:",
+  "ip_address": "IP Adresi:",
+  "version": "Sürüm",
+  "online": "Çevrimiçi",
+  "offline": "Çevrimdışı",
+  "store_online": "Mağaza Çevrimiçi",
+  "store_offline": "Mağaza Çevrimdışı",
+
+  "menu_title": "Menü",
+  "sales": "Satış",
+  "price_view": "Fiyat Görüntüle",
+  "return_order": "İade",
+  "direct_product_entry": "Direkt Ürün Girişi",
+  "reports": "Raporlar",
+  "payments": "Tahsilatlar",
+  "settings": "Ayarlar",
+  "offline_alert": "Mağaza Çevrimdışı! Satış yapmak için çevrimiçi olmalısınız.",
+
+  "read_barcode":"Barkodu Okutunuz",
+
+  "cart_header": "Sepet",
+  "cart_empty_message": "Sepetiniz boş.",
+  "product": "Ürün",
+  "price": "Fiyat",
+  "quantity": "Adet(Kg)",
+  "subtotal": "Ara Toplam",
+  "total": "Toplam",
+  "kg": "Kg",
+  "piece": "Adet",
+
+  "functions_title": "İşlemler",
+  "increase_quantity": "Adet Artır",
+  "decrease_quantity": "Adet Azalt",
+  "delete_row": "Satırı Sil",
+  "clear_cart": "Sepeti Temizle",
+  "proceed_to_payment": "Ödeme Ekranına Git",
+  "cart_empty_alert": "Sepet boş. Ödeme ekranına geçemezsiniz.",
+
+  "product_add_to_cart": "Sepete Ekle",
+  "product_category": "Kategori",
+  "product_price": "Fiyat",
+  "product_stock": "Stok",
+  "product_kg": "Kg",
+  "product_unit": "Adet",
+
+  "products_title": "Ürünler",
+  "category_button_text": "Kategori",
+  "barcode_products_button_text": "Barkodlu Ürünler",
+  "barcodeless_products_button_text": "Barkodsuz Ürünler",
+  "add_to_cart": "Sepete Ekle",
+
+  "return_order_page_title": "Sipariş İade Sayfası",
+  "scan_barcode_instruction": "Lütfen ürünün barkodunu okutunuz!",
+  "product_name": "Ürün Adı",
+  "category": "Kategori",
+  "barcode": "Barkod",
+  "return_button_text": "İade Et",
+
+
+  "receipt_header": "Sanal Fiş",
+  "date": "Tarih:",
+  "time": "Saat:",
+  "cashier": "Kasiyer:",
+  "products": "Ürünler",
+  "total_amount": "Toplam Tutar",
+  "payment_info": "Ödeme Bilgileri",
+  "paid_amount": "Ödenen Miktar:",
+  "change_amount": "Para Üstü:",
+  "pieces":"Adet",
+  "new_sales":"Yeni Satış",
+  "print_button": "Fişi Yazdır",
+  "returned_amount": "İade tutarı",
+
+
+  
+  
+  "processes_title": "İşlemler",
+  "e_invoice": "e Fatura",
+  "gift_voucher": "Hediye Çeki",
+  "e_wallet": "e Cüzdan",
+  "hadi_wallet": "Hadi Cüzdan",
+  "return_to_orders": "Siparişe Dön",
+
+  "payment_success_message": "Ödeme tamamlandıktan sonra E-fatura yollanacaktır",
+
+
+ 
+  "cancel_document": "Belge İptal",
+  "campaign": "Kampanya",
+  "payment_method": "Ödeme Yöntemi",
+  "cash": "Nakit",
+  "credit_card": "Kredi Kartı",
+  "payment_amount": "Ödeme Miktarı",
+  "remaining_amount": "Kalan Tutar",
+  "total_to_pay": "Ödenmesi Gereken Tutar",
+
+  "mail_modal": {
+    "title": "E-Fatura Gönderimi",
+    "description": "E-posta adresini girerek e-fatura gönderebilirsiniz:",
+    "email_label": "E-posta adresi",
+    "cancel_button": "İptal",
+    "send_button": "Gönder"
+  },
+  "notifications": {
+    "email_sent": "E-fatura başarıyla gönderildi.",
+    "email_error": "E-fatura gönderilirken bir hata oluştu."
+  },
+
+  "campaign_modal": {
+    "title": "Uygulanan Kampanyalar",
+    "close_button": "Kapat"
+  }
+  ,
+  "Back":"Geri"
+
+}

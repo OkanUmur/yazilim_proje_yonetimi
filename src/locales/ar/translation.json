@@ -1,0 +1,139 @@
+{
+    "welcome": "مرحبًا",
+    "enter_credentials": "يرجى إدخال رمز الكاشير وكلمة المرور...",
+    "username_placeholder": "رمز الكاشير",
+    "password_placeholder": "كلمة المرور",
+    "login_button": "تسجيل الدخول",
+    "invalid_credentials": "رمز الكاشير أو كلمة المرور غير صالحة.",
+  
+  
+    "settings_title": "الإعدادات",
+    "dark_theme": "سمة داكنة",
+    "light_theme": "سمة فاتحة",
+    "keyboard_language_selection": "اختيار لغة لوحة المفاتيح",
+    "language_selection":"تعيين اللغة",
+    "language_option_en": "الإنجليزية",
+    "language_option_tr": "التركية",
+    "language_option_jp": "اليابانية",
+    "language_option_fr": "الفرنسية",
+    "language_option_ar": "العربية",
+  
+  
+    "main_screen_title": "كاشير الويب",
+    "shopping_cart_icon": "عربة التسوق",
+    "store_number": "رقم المتجر:",
+    "register_number": "رقم السجل:",
+    "ip_address": "عنوان IP:",
+    "version": "الإصدار:",
+    "online": "متصل",
+    "offline": "غير متصل",
+    "store_online": "المتجر متصل",
+    "store_offline": "المتجر غير متصل",
+  
+  
+    "menu_title": "القائمة",
+    "sales": "المبيعات",
+    "price_view": "عرض السعر",
+    "return_order": "طلب إرجاع",
+    "direct_product_entry": "إدخال المنتج المباشر",
+    "reports": "التقارير",
+    "payments": "المدفوعات",
+    "settings": "الإعدادات",
+    "offline_alert": "المتجر غير متصل! يجب أن تكون متصلاً لإجراء المبيعات.",
+  
+    "read_barcode":"مسح الباركود",
+  
+    "cart_header": "عربة التسوق",
+    "cart_empty_message": "سلة التسوق الخاصة بك فارغة.",
+    "product": "المنتج",
+    "price": "السعر",
+    "quantity": "الكمية",
+    "subtotal": "المجموع الفرعي",
+    "total": "الإجمالي",
+    "kg": "كغ",
+    "piece": "قطعة",
+  
+    "functions_title": "العمليات",
+    "increase_quantity": "زيادة الكمية",
+    "decrease_quantity": "تقليل الكمية",
+    "delete_row": "حذف الصف",
+    "clear_cart": "مسح العربة",
+    "proceed_to_payment": "المتابعة للدفع",
+    "cart_empty_alert": "سلة التسوق فارغة. لا يمكنك المتابعة إلى شاشة الدفع.",
+  
+    "product_add_to_cart": "إضافة إلى العربة",
+    "product_category": "الفئة",
+    "product_price": "السعر",
+    "product_stock": "المخزون",
+    "product_kg": "كغ",
+    "product_unit": "وحدة",
+  
+    "products_title": "المنتجات",
+    "category_button_text": "الفئة",
+    "barcode_products_button_text": "المنتجات بالباركود",
+    "barcodeless_products_button_text": "المنتجات بدون باركود",
+    "add_to_cart": "إضافة إلى العربة",
+  
+    "return_order_page_title": "صفحة طلب الإرجاع",
+    "scan_barcode_instruction": "يرجى مسح باركود المنتج!",
+    "product_name": "الاسم:",
+    "category": "الفئة:",
+    "barcode": "الباركود:",
+    "return_button_text": "العودة",
+  
+  
+    "receipt_header": "الفاتورة الرقمية",
+    "date": "التاريخ:",
+    "time": "الوقت:",
+    "cashier": "الكاشير:",
+    "products": "المنتجات",
+    "total_amount": "المبلغ الإجمالي",
+    "payment_info": "معلومات الدفع",
+    "paid_amount": "المبلغ المدفوع:",
+    "change_amount": "المبلغ المتبقي:",
+    "pieces":"الفاتورة",
+    "new_sales":"بيع جديد",
+    "print_button": "طباعة الفاتورة",
+    "returned_amount": "المبلغ المسترد:",
+  
+  
+    "processes_title": "العمليات",
+    "e_invoice": "الفاتورة الإلكترونية",
+    "gift_voucher": "قسيمة هدية",
+    "e_wallet": "المحفظة الإلكترونية",
+    "hadi_wallet": "محفظة هادي",
+    "return_to_orders": "العودة للطلبات",
+  
+  
+    "payment_success_message": "بعد إكمال الدفع، سيتم إرسال الفاتورة الإلكترونية",
+  
+    "cancel_document": "إلغاء الوثيقة",
+    "campaign": "الحملة",
+    "payment_method": "طريقة الدفع",
+    "cash": "نقداً",
+    "credit_card": "بطاقة الائتمان",
+    "payment_amount": "مبلغ الدفع",
+    "remaining_amount": "المبلغ المتبقي",
+    "total_to_pay": "المبلغ الإجمالي للدفع",
+  
+  
+    "mail_modal": {
+      "title": "إرسال الفاتورة الإلكترونية",
+      "description": "يمكنك إرسال الفاتورة الإلكترونية عن طريق إدخال عنوان بريدك الإلكتروني:",
+      "email_label": "عنوان البريد الإلكتروني",
+      "cancel_button": "إلغاء",
+      "send_button": "إرسال"
+    },
+    "notifications": {
+      "email_sent": "تم إرسال الفاتورة الإلكترونية بنجاح.",
+      "email_error": "حدث خطأ أثناء إرسال الفاتورة الإلكترونية."
+    },
+  
+    "campaign_modal": {
+      "title": "الحملات المطبقة",
+      "close_button": "إغلاق"
+    }
+    ,
+  "Back":"العودة"
+  }
+  

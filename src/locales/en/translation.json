@@ -1,0 +1,139 @@
+{
+  "welcome": "Welcome",
+  "enter_credentials": "Please enter cashier code and password...",
+  "username_placeholder": "Cashier code",
+  "password_placeholder": "Password",
+  "login_button": "Login",
+  "invalid_credentials": "Invalid cashier code or password.",
+
+
+  "settings_title": "Settings",
+  "dark_theme": "Dark Theme",
+  "light_theme": "Light Theme",
+  "keyboard_language_selection": "Keyboard Language Selection",
+  "language_selection":"Set Language",
+  "language_option_en": "English",
+  "language_option_tr": "Türkçe",
+  "language_option_jp": "日本語",
+  "language_option_fr": "Français",
+  "language_option_ar": "العربية",
+
+
+  "main_screen_title": "Web Cashier",
+  "shopping_cart_icon": "Shopping Cart",
+  "store_number": "Store No:",
+  "register_number": "Register No:",
+  "ip_address": "IP Address:",
+  "version": "Version:",
+  "online": "Online",
+  "offline": "Offline",
+  "store_online": "Store Online",
+  "store_offline": "Store Offline",
+
+
+  "menu_title": "Menu",
+  "sales": "Sales",
+  "price_view": "Price View",
+  "return_order": "Return Order",
+  "direct_product_entry": "Direct Product Entry",
+  "reports": "Reports",
+  "payments": "Payments",
+  "settings": "Settings",
+  "offline_alert": "Store Offline! You must be online to make sales.",
+
+  "read_barcode":"Scan the barcode",
+
+  "cart_header": "Cart",
+  "cart_empty_message": "Your cart is empty.",
+  "product": "Product",
+  "price": "Price",
+  "quantity": "Quantity",
+  "subtotal": "Subtotal",
+  "total": "Total",
+  "kg": "Kg",
+  "piece": "Piece(s)",
+
+  "functions_title": "Operations",
+  "increase_quantity": "Increase Quantity",
+  "decrease_quantity": "Decrease Quantity",
+  "delete_row": "Delete Row",
+  "clear_cart": "Clear Cart",
+  "proceed_to_payment": "Proceed to Payment",
+  "cart_empty_alert": "Cart is empty. You cannot proceed to the payment screen.",
+
+  "product_add_to_cart": "Add to Cart",
+  "product_category": "Category",
+  "product_price": "Price",
+  "product_stock": "Stock",
+  "product_kg": "Kg",
+  "product_unit": "Unit",
+
+  "products_title": "Products",
+  "category_button_text": "Category",
+  "barcode_products_button_text": "Products with Barcode",
+  "barcodeless_products_button_text": "Products without Barcode",
+  "add_to_cart": "Add to Cart",
+
+  "return_order_page_title": "Return Order Page",
+  "scan_barcode_instruction": "Please scan the barcode of the product!",
+  "product_name": "Name:",
+  "category": "Category:",
+  "barcode": "Barcode:",
+  "return_button_text": "Return",
+
+
+  "receipt_header": "Digital Receipt",
+  "date": "Date:",
+  "time": "Time:",
+  "cashier": "Cashier:",
+  "products": "Products",
+  "total_amount": "Total Amount",
+  "payment_info": "Payment Information",
+  "paid_amount": "Paid Amount:",
+  "change_amount": "Change Amount:",
+  "print_button": "Print Receipt",
+  "pieces":"Piece(s)",
+  "new_sales":"New sales",
+  "returned_amount": "Returned Amount:",
+
+
+  "processes_title": "Processes",
+  "e_invoice": "e Invoice",
+  "gift_voucher": "Gift Voucher",
+  "e_wallet": "e Wallet",
+  "hadi_wallet": "Hadi Wallet",
+  "return_to_orders": "Return to Orders",
+
+
+  "payment_success_message": "After payment is completed, an E-invoice will be sent",
+
+  "cancel_document": "Cancel Document",
+  "campaign": "Campaign",
+  "payment_method": "Payment Method",
+  "cash": "Cash",
+  "credit_card": "Credit Card",
+  "payment_amount": "Payment Amount",
+  "remaining_amount": "Remaining Amount",
+  "total_to_pay": "Total to Pay",
+
+
+  "mail_modal": {
+    "title": "Send E-Invoice",
+    "description": "You can send e-invoice by entering your email address:",
+    "email_label": "Email Address",
+    "cancel_button": "Cancel",
+    "send_button": "Send"
+  },
+  "notifications": {
+    "email_sent": "E-invoice sent successfully.",
+    "email_error": "An error occurred while sending the e-invoice."
+  },
+
+  "campaign_modal": {
+    "title": "Applied Campaigns",
+    "close_button": "Close"
+  }
+,
+  "Back":"Back"
+ 
+}

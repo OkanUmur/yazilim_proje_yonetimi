@@ -1,0 +1,104 @@
+.cart-container {
+  border-radius: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cart-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.cart-empty-message {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cart-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.cart-table th,
+.cart-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.cart-table th {
+  background-color: #f2f2f2;
+}
+
+.cart-table thead {
+  background-color: burlywood;
+  color: cornflowerblue;
+}
+
+.cart-item.selected {
+  background-color: red;
+  color: #fff;
+}
+
+.cart-total {
+  margin-top: 20px;
+}
+
+.subtotal,
+.total {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 16px;
+  background-color: green;
+  color: #fff;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.subtotal span,
+.total span {
+  font-weight: bold;
+}
+
+/* Laptop görünümü  */
+@media (min-width: 1024px) {
+  .cart-container {
+      width: 80%;
+      margin: 0 auto;
+  }
+
+  .cart-header {
+      font-size: 2rem;
+  }
+
+  .cart-empty-message {
+      font-size: 1.5rem;
+  }
+
+  .subtotal,
+  .total {
+      padding: 8px 20px;
+  }
+}
+
+/* Tablet görünümü için  */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .cart-container {
+      width: 90%;
+      margin: 0 auto;
+  }
+
+  .cart-header {
+      font-size: 1.8rem;
+  }
+
+  .cart-empty-message {
+      font-size: 1.3rem;
+  }
+
+  .subtotal,
+  .total {
+      padding: 6px 18px;
+  }
+}

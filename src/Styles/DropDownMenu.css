@@ -1,0 +1,36 @@
+/* DropdownMenu.css */
+.dropdown-button {
+    background-color: transparent;
+    border: none;
+    color: #333;
+    cursor: pointer;
+  }
+  
+  .dropdown-button:hover {
+    color: #555;
+  }
+  
+  .menu {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .menu-item {
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.3s;
+  }
+  
+  .menu-item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .menu-item-icon {
+    margin-right: 8px;
+  }
+  
+  .menu-item-text {
+    flex-grow: 1;
+  }
+  

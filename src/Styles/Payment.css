@@ -1,0 +1,112 @@
+.payment-container {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.payment-container h1 {
+  text-align: center;
+}
+
+.payment-container button {
+  font-size: 16px;
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.payment-container button:hover {
+  background-color: #ddd;
+}
+
+.payment-container input[type="text"] {
+  font-size: 16px;
+  padding: 10px;
+  width: calc(100% - 100px);
+  margin-right: 10px;
+}
+
+.payment-container .number-buttons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.payment-container .number-buttons button {
+  width: calc(25% - 10px);
+}
+
+.payment-container .payment-details {
+  margin-top: 20px;
+}
+
+.payment-container .payment-details p {
+  margin: 5px 0;
+  color: darkviolet;
+}
+
+.payment-container .change {
+  font-weight: bold;
+}
+
+/* Laptop görünümü için (1024px ve üstü) */
+@media (min-width: 1024px) {
+  .payment-container {
+      max-width: 500px;
+      padding: 30px;
+  }
+
+  .payment-container button {
+      font-size: 18px;
+      padding: 12px 20px;
+      margin: 10px;
+  }
+
+  .payment-container input[type="text"] {
+      font-size: 18px;
+      padding: 12px;
+      width: calc(100% - 120px);
+  }
+
+  .payment-container .number-buttons button {
+      width: calc(20% - 10px);
+  }
+
+  .payment-container h1 {
+      font-size: 24px;
+  }
+}
+
+/* Tablet görünümü için (768px ile 1023px arası) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .payment-container {
+      max-width: 450px;
+      padding: 25px;
+  }
+
+  .payment-container button {
+      font-size: 17px;
+      padding: 11px 18px;
+      margin: 8px;
+  }
+
+  .payment-container input[type="text"] {
+      font-size: 17px;
+      padding: 11px;
+      width: calc(100% - 110px);
+  }
+
+  .payment-container .number-buttons button {
+      width: calc(22% - 10px);
+  }
+
+  .payment-container h1 {
+      font-size: 22px;
+  }
+}

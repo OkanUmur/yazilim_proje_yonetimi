@@ -1,0 +1,9 @@
+.sales-screen-container {
+    display: flex;
+    justify-content: space-between; 
+}
+
+
+.sales-screen-column {
+    flex: 1;
+}

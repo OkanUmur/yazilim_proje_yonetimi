@@ -1,0 +1,45 @@
+.input-wrapper {
+  margin-bottom: 15px;
+}
+
+.input-wrapper label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-wrapper input {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.input-wrapper input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+/* Laptop görünümü için (1024px ve üstü) */
+@media (min-width: 1024px) {
+  .input-wrapper input {
+      width: 70%;
+      padding: 12px;
+  }
+
+  .input-wrapper label {
+      font-size: 18px;
+  }
+}
+
+/* Tablet görünümü için (768px ile 1023px arası) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .input-wrapper input {
+      width: 75%;
+      padding: 11px;
+  }
+
+  .input-wrapper label {
+      font-size: 17px;
+  }
+}

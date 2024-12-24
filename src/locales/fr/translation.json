@@ -1,0 +1,139 @@
+{
+    "welcome": "Bienvenue",
+    "enter_credentials": "Veuillez saisir le code de caissier et le mot de passe...",
+    "username_placeholder": "Code de caissier",
+    "password_placeholder": "Mot de passe",
+    "login_button": "Connexion",
+    "invalid_credentials": "Code de caissier ou mot de passe incorrect.",
+  
+  
+    "settings_title": "Paramètres",
+    "dark_theme": "Thème sombre",
+    "light_theme": "Thème clair",
+    "keyboard_language_selection": "Sélection de la langue du clavier",
+    "language_selection":"Langue",
+    "language_option_en": "Anglais",
+    "language_option_tr": "Turc",
+    "language_option_jp": "Japonais",
+    "language_option_fr": "Français",
+    "language_option_ar": "Arabe",
+  
+  
+    "main_screen_title": "Caisse Web",
+    "shopping_cart_icon": "Panier",
+    "store_number": "Numéro de magasin :",
+    "register_number": "Numéro de caisse :",
+    "ip_address": "Adresse IP :",
+    "version": "Version :",
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "store_online": "Magasin en ligne",
+    "store_offline": "Magasin hors ligne",
+  
+  
+    "menu_title": "Menu",
+    "sales": "Ventes",
+    "price_view": "Affichage des prix",
+    "return_order": "Retour de commande",
+    "direct_product_entry": "Saisie directe des produits",
+    "reports": "Rapports",
+    "payments": "Paiements",
+    "settings": "Paramètres",
+    "offline_alert": "Magasin hors ligne ! Vous devez être en ligne pour effectuer des ventes.",
+  
+    "read_barcode":"Numérisez le code-barres",
+  
+    "cart_header": "Panier",
+    "cart_empty_message": "Votre panier est vide.",
+    "product": "Produit",
+    "price": "Prix",
+    "quantity": "Quantité",
+    "subtotal": "Sous-total",
+    "total": "Total",
+    "kg": "Kg",
+    "piece": "Pièce(s)",
+  
+    "functions_title": "Opérations",
+    "increase_quantity": "Augmenter la quantité",
+    "decrease_quantity": "Diminuer la quantité",
+    "delete_row": "Supprimer la ligne",
+    "clear_cart": "Vider le panier",
+    "proceed_to_payment": "Procéder au paiement",
+    "cart_empty_alert": "Le panier est vide. Vous ne pouvez pas accéder à l'écran de paiement.",
+  
+    "product_add_to_cart": "Ajouter au panier",
+    "product_category": "Catégorie",
+    "product_price": "Prix",
+    "product_stock": "Stock",
+    "product_kg": "Kg",
+    "product_unit": "Unité",
+  
+    "products_title": "Produits",
+    "category_button_text": "Catégorie",
+    "barcode_products_button_text": "Produits avec code-barres",
+    "barcodeless_products_button_text": "Produits sans code-barres",
+    "add_to_cart": "Ajouter au panier",
+  
+    "return_order_page_title": "Page de retour de commande",
+    "scan_barcode_instruction": "Veuillez scanner le code-barres du produit !",
+    "product_name": "Nom :",
+    "category": "Catégorie :",
+    "barcode": "Code-barres :",
+    "return_button_text": "Retourner",
+  
+  
+    "receipt_header": "Reçu numérique",
+    "date": "Date :",
+    "time": "Heure :",
+    "cashier": "Caissier :",
+    "products": "Produits",
+    "total_amount": "Montant total",
+    "payment_info": "Informations de paiement",
+    "paid_amount": "Montant payé :",
+    "change_amount": "Montant de la monnaie rendue :",
+    "pieces":"le mik ",
+    "new_sales":"Nouvelle vente",
+    "print_button": "Imprimer le reçu",
+    "returned_amount": "Montant retourné :",
+  
+  
+    "processes_title": "Processus",
+    "e_invoice": "e Facture",
+    "gift_voucher": "Chèque-cadeau",
+    "e_wallet": "Portefeuille électronique",
+    "hadi_wallet": "Portefeuille Hadi",
+    "return_to_orders": "Retour aux commandes",
+  
+  
+    "payment_success_message": "Après le paiement, une e-facture sera envoyée",
+  
+    "cancel_document": "Annuler le document",
+    "campaign": "Campagne",
+    "payment_method": "Méthode de paiement",
+    "cash": "Espèces",
+    "credit_card": "Carte de crédit",
+    "payment_amount": "Montant du paiement",
+    "remaining_amount": "Montant restant",
+    "total_to_pay": "Total à payer",
+  
+  
+    "mail_modal": {
+      "title": "Envoyer une e-facture",
+      "description": "Vous pouvez envoyer une e-facture en saisissant votre adresse e-mail :",
+      "email_label": "Adresse e-mail",
+      "cancel_button": "Annuler",
+      "send_button": "Envoyer"
+    },
+    "notifications": {
+      "email_sent": "E-facture envoyée avec succès.",
+      "email_error": "Une erreur s'est produite lors de l'envoi de l'e-facture."
+    },
+  
+    "campaign_modal": {
+      "title": "Campagnes appliquées",
+      "close_button": "Fermer"
+    }
+    ,
+  "Back":"retour"
+  }
+  

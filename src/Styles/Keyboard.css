@@ -1,0 +1,53 @@
+/* Laptop için stil ayarları */
+@media only screen and (min-width: 768px) {
+  .keyboard {
+    margin-top: 50px;
+  }
+
+  .row {
+    margin-bottom: 10px;
+  }
+
+  .key {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+  }
+
+  .space {
+    width: 350px;
+  }
+
+  .key:hover {
+    background-color: #e0e0e0;
+  }
+}
+
+/* Tablet için stil ayarları */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .keyboard {
+    margin-top: 30px;
+  }
+
+  .row {
+    margin-bottom: 8px;
+  }
+
+  .key {
+    font-size: 18px;
+    padding: 9px 18px;
+    margin: 0 4px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+  }
+
+  .space {
+    width: 300px;
+  }
+}
