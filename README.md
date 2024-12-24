@@ -14,7 +14,7 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BeeSoftwareMahmut/webcashapp.git
+   git clone https://github.com/OkanUmur/yazilim_proje_yonetimi
    cd my-react-project
 
 2. Install the dependencies:   
